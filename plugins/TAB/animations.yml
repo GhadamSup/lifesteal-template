@@ -1,0 +1,28 @@
+lfsmp:
+   change-interval: 300
+   texts:
+     - '&aLifeSteal SMP'
+     - '&cL&aifeSteal SMP'
+     - '&aL&ci&afeSteal SMP'
+     - '&aLi&cf&aeSteal SMP'
+     - '&aLif&ce&aSteal SMP'
+     - '&aLife&cS&ateal SMP'
+     - '&aLifeS&ct&aeal SMP'
+     - '&aLifeSt&ce&aal SMP'
+     - '&aLifeSte&ca&al SMP'
+     - '&aLifeStea&cl&a SMP'
+     - '&aLifeSteal &cS&aMP'
+     - '&aLifeSteal S&cM&aP'
+     - '&aLifeSteal SM&cP'
+     - '&aLifeSteal SMP'
+     - '&aLifeSteal &cSMP'
+     - '&aLifeSteal SMP'
+     - '&aLifeSteal &cSMP'
+     - '&aLifeSteal SMP'
+
+
+
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED

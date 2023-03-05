@@ -1,0 +1,11 @@
+events:
+  revived:
+    example:
+      execute:
+        command: put your command here
+        as: console
+  eliminated:
+    example:
+      execute:
+        command: put your command here
+        as: console

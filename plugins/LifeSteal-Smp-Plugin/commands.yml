@@ -1,0 +1,70 @@
+withdrawcommand:
+  name: lswithdraw
+  perms: lssmp.withdraw
+  messages:
+    withdraw: §6You have withdrawn %amount% heart(s)!
+    withdrawnTooMuch: §cWithdraw count is too high! Lower it to at least %max%!
+    notEnoughSpace: §cYou do not have enough space to fit %amount% heart(s) in your
+      inventory!
+upgradecommand:
+  name: lsupgrade
+  perms: lssmp.upgrade
+  messages:
+    warning: §c§lWARNING!§r§c Using this command will reset your configs and restart
+      the server, type "/lsupgrade confirm" if you are sure.
+    noUpgradeNeeded: '&aNo upgrade needed! Type "/lsupgrade force" to force an upgrade!'
+revivecommand:
+  name: lsrevive
+  perms: lssmp.revive
+  messages:
+    revivedAllPlayers: §aRevived all players!
+    revivedPlayers: §aRevived %s players!
+  reviveallcommand:
+    name: all
+    perms: lssmp.revive.all
+resetcommand:
+  name: lsreset
+  perms: lssmp.reset
+  messages:
+    resetAllPlayers: §aReset all players!
+    resetPlayers: §aReset %s players!
+  resetallcommand:
+    name: all
+    perms: lssmp.reset.all
+reloadcommand:
+  name: lsreload
+  perms: lssmp.reload
+  messages:
+    reload: §6Reloaded LSSMP
+recipecommand:
+  name: lsrecipe
+  perms: lssmp.recipe
+healthcommand:
+  name: lshealth
+  perms: lssmp.health
+  messages:
+    getMessage: §3%s §6 has §a%s §4❤
+  healthsubcommand:
+    name: sub
+    perms: lssmp.health.sub
+  healthsetcommand:
+    name: set
+    perms: lssmp.health.set
+  healthgetcommand:
+    name: get
+    perms: lssmp.health.get
+  healthaddcommand:
+    name: add
+    perms: lssmp.health.add
+givecommand:
+  name: lsgive
+  perms: lssmp.give
+eliminatecommand:
+  name: lseliminate
+  perms: lssmp.eliminate
+  messages:
+    eliminatedAllPlayers: §cEliminated all players!
+    eliminatedPlayers: §cEliminated %s players!
+  eliminateallcommand:
+    name: all
+    perms: lssmp.eliminate.all

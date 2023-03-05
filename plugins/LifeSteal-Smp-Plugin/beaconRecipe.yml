@@ -1,0 +1,24 @@
+options:
+  type: beacon
+  outputAmount: 1
+  shaped: true
+  item: beacon
+recipe:
+  '1':
+    item: diamond block
+  '2':
+    item: netherite ingot
+  '3':
+    item: gold block
+  '4':
+    item: netherite ingot
+  '5':
+    item: beacon
+  '6':
+    item: netherite ingot
+  '7':
+    item: gold block
+  '8':
+    item: netherite ingot
+  '9':
+    item: diamond block
